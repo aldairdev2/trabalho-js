@@ -1,0 +1,42 @@
+body{
+    background-color: blue;
+}
+
+header{
+    text-align: center;
+}
+
+header h1{
+    font-weight: 200
+}
+
+section{
+    padding: 50px;
+    background-color: aliceblue;
+    width: 500px;
+    margin: 50px auto;
+    height: 400px;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 500px;
+}
+
+#msg{
+    text-align: center;
+}
+
+#entardecer{
+    border-radius: 500px;
+}
+
+#img{
+    text-align: center;
+    border-radius: 500px;
+    box-shadow: 5px 5px 5px black;
+    
+}
+
+footer{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 50px;
+}
